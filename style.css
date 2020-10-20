@@ -1,0 +1,25 @@
+.streamers{
+  background-color: lightblue;
+  border: 1px solid black;
+  margin-top 20px;
+}
+
+.statuses{
+  background-color: black;
+  color:white;
+  margin-top: 20px;
+}
+.statuses a, .statuses a:hover{
+  color: white;
+}
+
+.offline, .notexisting{
+  color:red;
+}
+
+.online{
+  color:green;
+}
+.channelname{
+  font-size: 16px;
+}
